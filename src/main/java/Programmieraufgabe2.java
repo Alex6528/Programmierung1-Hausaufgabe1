@@ -1,6 +1,7 @@
 public class Programmieraufgabe2 {
     public static void main(String[] args) {
-        String text = null;
-        System.out.println(text);
+        System.out.println("Hello, world!");
+        System.out.println("What a great day to be alive!");
     }
 }
+
